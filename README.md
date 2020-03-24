@@ -1,6 +1,6 @@
 # flutter_ui_challanges
 
 ## Sign in/up
-![](sign_in_purple/results/login_1.png | width=100)
+![Sign up screenshots](sign_in_purple/results/login_1.png)
 
 ![](sign_in_purple/results/login_2.png | width=100)
